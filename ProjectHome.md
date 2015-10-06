@@ -1,0 +1,1 @@
+This is a game of 3D Asteroids written in C/C++ with openGL it was for a introduction to graphics class.  We hope to add on to it. With muliplayer capabilities.
